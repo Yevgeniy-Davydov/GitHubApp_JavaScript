@@ -1,4 +1,4 @@
-const API_TOKEN = "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";
+const API_TOKEN = "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";
 const API_URL = "https://api.github.com";
 
 export const getUser = async (userName) => {
